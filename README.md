@@ -8,12 +8,14 @@
 - Header
 - Estilos in-line
 - Divs
+- Criação de tabelas e semântica adequada
 
 ## Desenvolvido em CSS3 até o momento:
 - Uso de classes e id's
 - Alteração de subitens, ex.: ´nav li´
 - Mouse hover, mouse click
 - Reset de CSS
+- Estilização de tabelas
 
 ## Páginas desenvolvidas até o momento:
 - index.html
