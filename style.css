@@ -68,12 +68,13 @@ form label, form legend {
     border-radius: 10px;
     font-weight: bold;
     font-size: 18px;
-    transition: 500ms;
+    transition: 500ms all;
     cursor: pointer;
 }
 
 .enviar:hover {
     background: darkorange;
+    transform: scale(1.05);
 }
 
 .produtos {
