@@ -21,3 +21,7 @@
 - index.html
 - produtos.html
 - contato.html
+
+### Alterações em index.html:
+- [19/01/2023] Alteração nas stylesheets, alteração no header, adição de footer
+- Adição da tag main e alteração de tags "div" para "section"
