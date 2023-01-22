@@ -29,6 +29,7 @@
 - Adição de link do Google Fonts API para a fonte da família Montserrat no head
 - Adição de nova section para mapa
 - Adição de mapa incorporado
+- Adição de vídeo incorporado
 
 ### Alterações em style.css:
 - [22/01/2023] Adição da classe .utensilios
@@ -36,3 +37,4 @@
 - Uso da propriedade "clear" na classe .titulo-principal
 - Alteração da font-family para Montserrat no body
 - Ajustes na classe .mapa e .mapa p
+- Ajustes na classe .video para centralização
