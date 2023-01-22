@@ -26,9 +26,10 @@
 - [19/01/2023] Alteração nas stylesheets, alteração no header, adição de footer
 - Adição da tag main e alteração de tags "div" para "section"
 - [22/01/2023] Adição de nova imagem
-
+- Adição de link do Google Fonts API para a fonte da família Montserrat no head
 
 ### Alterações em style.css:
 - [22/01/2023] Adição da classe .utensilios
 - Primeiro uso da proriedade "float"
 - Uso da propriedade "clear" na classe .titulo-principal
+- Alteração da font-family para Montserrat no body
