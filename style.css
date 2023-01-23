@@ -283,6 +283,7 @@ footer {
 
     .input-padrao {
         margin: 1em auto;
+        width: 70%;
     }
 
     form label, form legend {
@@ -290,7 +291,7 @@ footer {
     }
 
     .enviar {
-        width: auto;
+        width: 70%;
         margin: 0 1.5%;
         padding: 15px 10px;
     }
