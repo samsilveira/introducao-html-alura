@@ -250,7 +250,7 @@ footer {
 }
 
 @media screen and (max-width: 480px) {
-    .caixa, .principal, .conteudo-beneficios, .conteudo-mapa, .video {
+    .caixa, .principal, .conteudo-beneficios, .conteudo-mapa, .video, form {
         width: auto;
     }
 
@@ -272,12 +272,17 @@ footer {
     }
 
     .produtos li {
-        width: auto;
-        margin: 2em 5%;
+        width: 80%;
+        margin: 2em auto;
     }
 
     form {
         margin: 40px 5%;
+        text-align: center;
+    }
+
+    .input-padrao {
+        margin: 1em auto;
     }
 
     form label, form legend {
@@ -291,6 +296,6 @@ footer {
     }
 
     table {
-        margin: 20px 5% 40px;
+        margin: 2em auto;
     }
 }
